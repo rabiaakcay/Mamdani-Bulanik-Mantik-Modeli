@@ -1,1 +1,1 @@
-# Mamdani-Bulanik-Mantik-Modeli
+# Mamdani-Fuzzy-Logic-Model
